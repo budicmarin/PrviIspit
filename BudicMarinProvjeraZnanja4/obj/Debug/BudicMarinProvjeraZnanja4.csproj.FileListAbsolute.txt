@@ -1,0 +1,10 @@
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\bin\Debug\BudicMarinProvjeraZnanja4.exe.config
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\bin\Debug\BudicMarinProvjeraZnanja4.exe
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\bin\Debug\BudicMarinProvjeraZnanja4.pdb
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.Studenti.resources
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.Properties.Resources.resources
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.csproj.GenerateResource.cache
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.exe
+C:\Users\Marin\source\repos\BudicMarinProvjeraZnanja4\obj\Debug\BudicMarinProvjeraZnanja4.pdb
